@@ -1,0 +1,7 @@
+name: DemoWebServer
+targets:
+  DemoWebServer:
+    type: application
+    platform: macOS
+    deploymentTarget: "10.14.6"
+    sources: [DemoWebServer]

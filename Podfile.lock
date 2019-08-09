@@ -1,0 +1,18 @@
+PODS:
+  - GCDWebServer (3.5.2):
+    - GCDWebServer/Core (= 3.5.2)
+  - GCDWebServer/Core (3.5.2)
+
+DEPENDENCIES:
+  - GCDWebServer (~> 3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - GCDWebServer
+
+SPEC CHECKSUMS:
+  GCDWebServer: ead88cd14596dd4eae4f5830b8877c87c8728990
+
+PODFILE CHECKSUM: 8ce5a6c68decbd5b04e81f61b2c131651045101f
+
+COCOAPODS: 1.7.5
